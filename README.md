@@ -12,7 +12,8 @@
 
 | 이진욱 | 소유나 | 박준규 | 신하연 | 김미정 |
 |--------|--------|--------|--------|--------|
-|<img width="403" alt="진욱님" src="https://github.com/seacrab808/day2-test/assets/93272421/05db85c0-2544-4d55-a5e5-bb0ca766a04e">|<img width="372" alt="유나님" src="https://github.com/seacrab808/day2-test/assets/93272421/5728f937-1381-4388-85f4-22e8baba07bf">|<img width="411" alt="준규님" src="https://github.com/seacrab808/day2-test/assets/93272421/def445fa-6a7b-4cc0-8d76-7dd1e1506299">|![image](https://github.com/seacrab808/day2-test/assets/93272421/8a0d734a-bbc3-431f-a1a6-6c9c3c7970b5)|<img width="537" alt="미정님" src="https://github.com/seacrab808/day2-test/assets/93272421/b470683f-94bd-42fc-bace-58c349d8fbbc">
+|<img width="403" alt="진욱님" src="https://github.com/seacrab808/day2-test/assets/93272421/05db85c0-2544-4d55-a5e5-bb0ca766a04e">|<img width="372" alt="유나님" src="https://github.com/seacrab808/day2-test/assets/93272421/5728f937-1381-4388-85f4-22e8baba07bf">|<img width="411" alt="준규님" src="https://github.com/seacrab808/day2-test/assets/93272421/def445fa-6a7b-4cc0-8d76-7dd1e1506299">|![image](https://github.com/seacrab808/day2-test/assets/93272421/8a0d734a-bbc3-431f-a1a6-6c9c3c7970b5)|![image](https://github.com/seacrab808/day2-test/assets/93272421/7f3a9da1-5aa7-4e34-b0ed-7e8270574a0e)
+
 
 
 ## 3. 프로젝트 설명 (구현한 기능 및 사진 등)
